@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html>
+<title>Covid 19 </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="css/slide.css">
+
+<style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+</style>
+<body class="w3-blue">
+
+  
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1600px">
+
+  <!-- Header -->
+  <header class="w3-container w3-center w3-padding-48 w3-blue">
+    <h1 class="w3-xxxlarge"><b>COVID-19</b></h1>
+    <h6>BIENVENIDOS A NUESTRA PAGINA WEB <span class="w3-tag">INFORMACION SANITARIA</span></h6>
+  </header>
+
+  <!-- Image header -->
+  <header class="w3-display-container w3-wide" id="home">
+   
+   
+     <body>
+  <style>
+    /* Prevents slides from flashing */
+    #slides {
+      display:none;
+    }
+  </style>
+
+  <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+  <script src="jquery.slides.min.js"></script>
+
+  <script>
+    $(function(){
+      $("#slides").slidesjs({
+        width: 840,
+        height: 428
+      });
+    });
+  </script>
+</body>
+<body>
+
+ 
+  <div id="slides">
+    <img src="img/covid.jpg">
+    <img src="img/Covid1.png">
+    <img src="img/mascarrilla.jpg">
+  </div>
+</body>
+    <div class="w3-display-left w3-padding-large">
+      <h1 class="w3-text-white">Afrontamiento!</h1>
+      
+    </div>
+  </header>
+
+  <!-- Grid -->
+  <div class="w3-row w3-padding w3-border">
+
+    <!-- Blog entries -->
+    <div class="w3-col l8 s12">
+    
+      <!-- Blog entry -->
+      <div class="w3-container w3-yellow w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>Informacion Previa </h3>
+        </div>
+        <div class="w3-justify">
+          <p><strong></strong> La COVID-19 afecta de distintas maneras en función de cada persona. La mayoría de las personas que se contagian presentan síntomas de intensidad leve o moderada, y se recuperan sin necesidad de hospitalización.
+          
+          "CÓMO SE PROPAGA"</p>
+          <center>
+                <img SRC="img/seguridad.jpg">
+          </center>
+            <p class="w3-clear"></p>
+          <div class="w3-row w3-margin-bottom" id="demo1" style="display:none">
+            <hr>
+              <div class="w3-col l2 m3">
+                <img src="/img/images.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>George <span class="w3-opacity w3-medium">May 3, 2015, 6:32 PM</span></h4>
+                <p>Great blog post! Following</p>
+              </div>
+          </div>
+        </div>
+      </div>
+      <hr>
+
+      <!-- Blog entry -->
+      <div class="w3-container w3-yellow w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>Los síntomas más habituales son los siguientes:</h3>
+          <h5><span class="w3-opacity"></span></h5>
+        </div>
+        <div class="w3-justify">
+          <p><strong></strong> </p>
+          <p>Fiebre,
+            Tos seca,
+            Cansancio.</p>
+           <center>
+                <img SRC="img/respuesta.jpg">
+          </center>
+          <p class="w3-clear"></p>
+          
+          
+          <!-- Example of comment field -->
+          <div id="demo2" style="display:none">
+            <div class="w3-row">
+              <hr>
+              <div class="w3-col l2 m3">
+                <img src="/w3images/girl_train.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Amber <span class="w3-opacity w3-medium">April 26, 2015, 10:52 PM</span></h4>
+                <p>Love your blog page! Simply the best! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p><br>
+              </div>
+            </div>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="/w3images/girl.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Angie <span class="w3-opacity w3-medium">April 23, 2015, 9:12 PM</span></h4>
+                <p>Love hats!!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Blog entry -->
+      <div class="w3-container w3-pink w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3>El virus que causa la COVID‑19 se transmite principalmente a través de las gotículas generadas cuando una persona infectada tose, estornuda o espira. Estas gotículas son demasiado pesadas para permanecer suspendidas en el aire y caen rápidamente sobre el suelo o las superficies.
+Usted puede infectarse al inhalar el virus si está cerca de una persona con COVID‑19 o si, tras tocar una superficie contaminada, se toca los ojos, la nariz o la boca. </h3>
+        </div>
+        <div class="w3-justify">
+          <p><strong> En este sitio web se puede encontrar información y orientaciones de la OMS acerca del actual brote de enfermedad por coronavirus (COVID-19) que fue notificado por primera vez en Wuhan (China) el 31 de diciembre de 2019. En esta página figura información actualizada diariamente.
+
+La OMS está colaborando estrechamente con expertos mundiales, gobiernos y asociados para ampliar rápidamente los conocimientos científicos sobre este nuevo virus, rastrear su propagación y virulencia y asesorar a los países y las personas sobre la medidas para proteger la salud y prevenir la propagación del brote.</strong> </p>
+            <center>
+                
+          </center>
+          <p class="w3-clear"></p>
+         
+          
+          <!-- Example of comment field -->
+          <div id="demo3" style="display:none">
+            <hr>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="/w3images/girl_mountain.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Jane <span class="w3-opacity w3-medium">April 10, 2015, 7:22 PM</span></h4>
+                <p>That was a great runway show! Thanks for everything.</p>
+              </div>
+            </div>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="/w3images/boy.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>John <span class="w3-opacity w3-medium">April 8, 2015, 10:32 PM</span></h4>
+                <p>Keep up the GREAT work! I am cheering for you!! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+              </div>
+            </div>
+            <div class="w3-row w3-margin-bottom">
+              <div class="w3-col l2 m3">
+                <img src="/w3images/girl_hood.jpg" style="width:90px;">
+              </div>
+              <div class="w3-col l10 m9">
+                <h4>Anja <span class="w3-opacity w3-medium">April 7, 2015, 9:12 PM</span></h4>
+                <p>Cant wait for the runway to start!</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+    <!-- END BLOG ENTRIES -->
+    </div>
+
+    <!-- About/Information menu -->
+    <div class="w3-col l4">
+      <!-- About Card -->
+      <div class="w3-red w3-margin">
+        <div class="w3-container w3-yellow">
+          <h4>¿Cuáles son los síntomas de COVID-19?</h4>
+          <p>Si presentas síntomas graves, busca atención médica inmediata. Sin embargo, siempre debes llamar a tu doctor o centro de atención sanitaria antes de presentarte en el lugar en cuestión.
+Lo recomendable es que las personas que sufran síntomas leves y tengan un buen estado de salud general se confinen en casa.
+De media, las personas que se contagian empiezan a presentar síntomas en un plazo de 5 a 6 días desde que se infectan, pero pueden tardar hasta 14.
+.</p>
+        </div>
+      </div>
+      <hr>
+
+      <!-- Posts -->
+    
+
+
+      <!-- Tags -->
+      <div class="w3-white w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>¿A quiénes afecta y cuales son sus sintomas? ​</h4>
+        </div>
+        <div class="w3-container w3-blue">
+          <p>Se conoce que cualquier persona puede infectarse, independientemente de su edad, pero hasta el momento se han registrado relativamente pocos casos de COVID-19 en niños. La enfermedad es mortal en raras ocasiones, y hasta ahora las víctimas mortales han sido personas de edad avanzada que ya padecían una enfermedad crónica como diabetes, asma o hipertensión.
+
+El nuevo Coronavirus causa una Infección Respiratoria Aguda (IRA), es decir una gripa, que puede ser leve, moderada o severa. Puede producir fiebre, tos, secreciones nasales (mocos) y malestar general. Algunos pacientes pueden presentar dificultad para respirar.
+            
+          </p>
+        </div>
+      </div>
+      <hr>
+
+    
+      <!-- Inspiration -->
+      <div class="w3-gray w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>¿Cómo prevenirlo?</h4>
+        </div>
+        <div class="w3-row-padding w3-yellow">
+          <div class="w3-col s6">
+            <p>Evita el contacto cercano con personas enfermas siempre tomar las medidas de bioseguridad y practicarlas a diario </p>
+            <pAl estornudar, cúbrete con la parte interna del codo></p>
+          </div>
+          <div class="w3-col s6">
+            <p>Si tienes síntomas de resfriado, quédate en casa y usa tapabocas para si proteger las personas de la tercera edad</p>
+         </div>
+        </div>
+      </div>
+      <hr>
+
+      
+      </div>
+      <hr>
+        <!-- Advertising -->
+      <div class="w3-white w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>#QUEDATE EN CASA</h4>
+        </div>
+        <div class="w3-container w3-yellow">
+          <div class="w3-container w3-display-container w3-blue w3-section" style="height:200px">
+            <p> ESPERO QUE HAYAS DISFRUTADO DE NUESTRA PAGINA Y QUE HALLAS APRENDIDO SOBRE  LA PEQUEÑA INFORMACION QUE TENEMOS EN NUESTRA PAGINA SOBRE ESTA PANDEMIA QUE HA AFECTADO A TODO EL MUNDO PORESO DEBEMOS DE QUEDARNOS EN CASA PARA PREVENIR EL #COVID19</p>
+              
+            
+          <div class="w3-container w3-display-container w3-blue w3-section" style="height:200px">
+            <p> La vida nos ha retado a una dura batalla, pero no nos preocupemos. ¡UNIDOS PODEMOS VENCER EL COVID19!</p>
+              
+              
+             
+          </div>
+        </div>
+      </div>
+      <hr>
+      
+    <!-- END About/Intro Menu -->
+    </div>
+
+  <!-- END GRID -->
+  </div>
+
+<!-- END w3-content -->
+</div>
+
+
+
+<!-- Footer -->
+<footer class="w3-container w3-blue" style="padding:32px">
+  <a href="#" class="w3-button w3-black w3-padding-large w3-margin-bottom"><i class="fa fa-arrow-up w3-margin-right"></i>hacia arriba</a>
+  <p>Creada Por <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">Nayeli Soto</a></p>
+</footer>
+
+<script>
+// Toggle between hiding and showing blog replies/comments
+document.getElementById("myBtn").click();
+function myFunction(id) {
+  var x = document.getElementById(id);
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+
+function likeFunction(x) {
+  x.style.fontWeight = "bold";
+  x.innerHTML = "✓ Liked";
+}
+</script>
+
+<center>
+
+</center>
+
+</body>
+</html>
